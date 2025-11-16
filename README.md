@@ -1,1 +1,1 @@
-# Version 2 of the portfolio - exploring
+# Portfolio using tailwind CSS
